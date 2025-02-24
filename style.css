@@ -1,0 +1,61 @@
+body {
+    font-family: Helvetica;
+    background-color: floralwhite;
+    font-size: 16px;
+    
+}
+h1, h2 {
+    background-color: rgba(0, 139, 139, 0.5);
+    letter-spacing: 2px;
+}
+h1 {
+    font-size: 50px;
+    color: aliceblue;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: Arial;
+    margin: 0px;
+    padding-left: 6px;
+}
+
+#intro {
+    text-align: center;
+    font-family: Arial;
+}
+
+#overview {
+    
+}
+
+ul {
+    list-style-image: url(bullet.png);
+}
+
+#border {
+    background-image: url(bullet.png);
+    background-repeat: repeat-x;
+    height: 20px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    font-size: 20px;
+}
+
+a:active {
+    color: black;
+}
+
